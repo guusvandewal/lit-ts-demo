@@ -1,0 +1,19 @@
+{
+  "name": "lit-ts-demo",
+  "version": "1.0.0",
+  "description": "Lit + TypeScript demo met API fetching",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "lit": "^3.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.4.0",
+    "vite": "^5.3.0"
+  }
+}
