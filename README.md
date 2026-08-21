@@ -1,5 +1,5 @@
 # lit-ts-demo
-
+v.1.0.0
 Een praktisch voorbeeld van Lit 3 + TypeScript met Vite. Demonstreert:
 
 - **Async API fetching** met typed state (`AsyncState<T>`)
